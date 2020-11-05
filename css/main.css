@@ -207,7 +207,7 @@ img {
 	width: 140px;
 }
 
-.info-list__item {
+.info-list__link {
 	display: flex;
 	align-items: center;
 }
@@ -224,6 +224,7 @@ img {
 .info-list__text {
 	font-size: 12px;
 	border-bottom: 1px solid #a7a7a7;
+	color: #252525;
 }
 
 .info-list__text .cost {
